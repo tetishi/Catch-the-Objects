@@ -1,2 +1,3 @@
 # Catch-the-Objects
-Catching game in Java
+
+Catching Game in Java
